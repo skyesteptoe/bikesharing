@@ -13,11 +13,11 @@ The purpose of this analysis is to prepare a convincing pitch for investors in D
 This analysis started by converting the trip_duration metric in the publically available datafile to a pandas datetime datatype for easier visualization of bike rental trip duration. 
 ### 1. Peak Riding Hours
 The most popular times to rent a bike peak during normal business hours, around 8am and between 5-7pm. Daylight hours are generally more popular than evening as can be seen by the number of bikes displayed on the bar chart.
-![image](images/Peak_hours.png)
+![image](/images/Peak_hours.png)
 
 ### 2. Customer Type
 The majority of bike renters are subscribers to the bike share business. They represent over three quarters of the customer base as demonstrated by the orange section of pie.
-![image](images/customer.png)
+![image](customer.png)
 
 ### 3. Trip Duration
 This image shows us that trips can be substantial in terms of duration. In a 24-hour day, we see that the majority of trips center around 5-hours. It is important to note this as ridership picks up, we will want to ensure enough bikes are available to rent at peak hours as they are checked out for several hours, on average.
