@@ -17,7 +17,7 @@ The most popular times to rent a bike peak during normal business hours, around 
 
 ### 2. Customer Type
 The majority of bike renters are subscribers to the bike share business. They represent over three quarters of the customer base as demonstrated by the orange section of pie.
-![image](images/customer.png)
+![image](/images/customer.png)
 
 ### 3. Trip Duration
 This image shows us that trips can be substantial in terms of duration. In a 24-hour day, we see that the majority of trips center around 5-hours. It is important to note this as ridership picks up, we will want to ensure enough bikes are available to rent at peak hours as they are checked out for several hours, on average.
